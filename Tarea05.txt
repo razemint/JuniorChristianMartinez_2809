@@ -1,0 +1,15 @@
+Una organización es la creación de una estructura, esta define el conjunto
+de recursos físicos, lógicos y humanos necesarios para la organización, realización  y control de las actividades informáticas de una empresa.
+
+
+En este caso, la organización puede desempeñar las siguientes funciones:
+
+* Operar el sistema de computación central y mantener el sistema disponible
+para todos los usuarios.
+* Ejecutar procesos asignados de acuerdo a programas de producción dejando un registro correspondiente en las solicitudes de proceso.
+* Realizar copias de respaldo de la información y procesos de cómputo confirme a parámetros establecidos.
+* Marcar y/o señalizar los productos de procesos ejecutados.
+* Llevar registros de fallas, problemas, soluciones. acciones desarrolladas
+respaldos, recuperaciones y trabajos realizados.
+* Realizar labores de mantenimiento y limpieza de los equipos del centro de
+cómputo.
